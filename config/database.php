@@ -56,7 +56,7 @@ return [
             'driver'    => 'mysql',
             'host'      => 'localhost',
             'port'      => 3306,
-            'database'  => 'octoberCMSChiro',
+            'database'  => 'corolate',
             'username'  => 'root',
             'password'  => 'password',
             'charset'   => 'utf8',
@@ -119,7 +119,7 @@ return [
         'default' => [
             'host'     => '127.0.0.1',
             'port'     => 6379,
-            'database' => 'octoberCMSChiro',
+            'database' => 'corolate',
         ],
 
     ],

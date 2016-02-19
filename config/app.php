@@ -29,7 +29,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/Sites/octobercms/',
+    'url' => 'http://localhost/Sites/install-master/',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +81,7 @@ return [
     |
     */
 
-    'key' => 'UPWte2etP6onZSl0',
+    'key' => 'HBmd9jp9Peb79glc',
 
     'cipher' => MCRYPT_RIJNDAEL_128,
 
